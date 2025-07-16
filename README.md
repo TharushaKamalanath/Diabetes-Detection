@@ -1,6 +1,5 @@
 # 🩺 Diabetes Detection App | Machine Learning + Streamlit
 
-![Project Preview](diabetes.WEBP)  
 *A Streamlit web app that predicts diabetes risk using Random Forest Classifier.*
 
 ---
