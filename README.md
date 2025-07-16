@@ -15,5 +15,5 @@
 
 ## 🎥 Live Demo
 <div align="enter">
-  <video src="https://github.com/TharushaKamalanath/Diabetes-Detection/raw/main/app-demo.mp4" controls width="700" muted></video>
+  <video src="https://raw.githubusercontent.com/TharushaKamalanath/Diabetes-Detection/main/app-demo.mp4" controls width="700" muted></video>
 </div>
