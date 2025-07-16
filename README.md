@@ -14,6 +14,6 @@
 ---
 
 ## 🎥 Live Demo
-<video src="https://github.com/TharushaKamalanath/Diabetes-Detection/blob/main/app-demo.webm" width="700" controls muted loop>
-  Your browser doesn't support HTML5 video. [Download the video](https://github.com/your-username/Diabetes-Detection-App/raw/main/app-demo.webm) instead.
-</video>
+<div align="center">
+  <video src="https://github.com/TharushaKamalanath/Diabetes-Detection/raw/main/app-demo.webm" controls width="700" muted></video>
+</div>
