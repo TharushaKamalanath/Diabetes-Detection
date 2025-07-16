@@ -13,3 +13,4 @@
 
 ---
 
+🎥 [Click here to watch the demo video](https://raw.githubusercontent.com/TharushaKamalanath/Diabetes-Detection/main/app-demo.mp4)
