@@ -13,7 +13,3 @@
 
 ---
 
-## 🎥 Live Demo
-<div align="enter">
-  <video src="https://raw.githubusercontent.com/TharushaKamalanath/Diabetes-Detection/main/app-demo.mp4" controls width="700" muted></video>
-</div>
